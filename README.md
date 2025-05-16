@@ -106,9 +106,9 @@ and install the tools you'll need.
 
 
 ### My Progress
-1. Read chapters 1 and 2 of the OSTEP textbook and watch the first half (the introduction) of lecture 1. (DONE)
-2. Do initial-utitilies project [to do]
-
+1. Read chapters 1 and 2 of the OSTEP textbook and watch the first half (the introduction) of lecture 1. [DONE]
+2. Do initial-utitilies project [DONE]
+3. Watch lectures 1 through 5 and read chapters 3 through 24 of the OSTEP textbook. [TO DO]
 
 
 

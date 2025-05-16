@@ -38,6 +38,7 @@ int main(int argc, char *argv[]) {
     }
 
     grep(fp, searchterm);
+    fclose(fp);
   }
 
   return EXIT_SUCCESS;

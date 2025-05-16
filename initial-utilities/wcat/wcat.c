@@ -20,6 +20,8 @@ int main(int argc, char *argv[]) {
     while ((len = getline(&line, &size, fp)) != -1) {
       fprintf(stdout, "%s", line);
     }
+
+    fclose(fp);
   }
 
   free(line);
