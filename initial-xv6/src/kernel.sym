@@ -4,7 +4,7 @@
 8010ef58 panicked
 80100400 consputc.part.0
 80100600 printint
-80107230 digits.0
+801076c0 digits.0
 00000000 exec.c
 00000000 file.c
 00000000 fs.c
@@ -22,9 +22,9 @@
 00000000 kalloc.c
 00000000 kbd.c
 8011167c shift.1
-80107560 shiftcode
-80107460 togglecode
-80107440 charcode.0
+801079a0 shiftcode
+801078a0 togglecode
+80107880 charcode.0
 80108200 normalmap
 80108100 shiftmap
 80108000 ctlmap
@@ -43,12 +43,12 @@
 801037b0 allocproc
 8010a000 first.1
 80113c54 initproc
-8010780c states.0
+80107aa0 states.0
 00000000 sleeplock.c
 00000000 spinlock.c
 00000000 string.c
 00000000 syscall.c
-80107880 syscalls
+80107ac0 syscalls
 00000000 sysfile.c
 80104ad0 create
 00000000 sysproc.c

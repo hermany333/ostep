@@ -27,7 +27,7 @@
 000003cb fork
 0000045b sbrk
 0000046b uptime
-00000bd8 __bss_start
+00000be0 __bss_start
 00000240 memset
 00000000 main
 000001b0 strcmp
