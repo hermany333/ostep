@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
     int conn_fd = accept_or_die(listen_fd, (sockaddr_t *)&client_addr,
                                 (socklen_t *)&client_len);
 
-    // main produces fds and fills them into fdbuffer;
+    // main produces fds and fills fdbuffer with them;
     fdbuffer_lock(fdbuffer);
     while (get_fdbuffer_count(fdbuffer) ==
            buffer_num) // while count == max wait on cond empty
